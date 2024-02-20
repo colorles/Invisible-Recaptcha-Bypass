@@ -3,7 +3,7 @@
  A python Library to bypass any invisible captcha on any site
 
 ## Getting Started
-put the Recap.py file inside your script and import it
+put the Recap.py file inside your script folder and import it
 
 ## How To Use
 ```PYTHON
